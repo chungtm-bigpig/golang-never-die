@@ -1,0 +1,1 @@
+# golang-never-die
